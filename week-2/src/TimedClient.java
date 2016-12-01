@@ -4,6 +4,9 @@
  * @author Gagne, Galvin, Silberschatz
  * Operating System Concepts with Java - Eighth Edition
  * Copyright John Wiley & Sons - 2010.
+ *
+ * Edited by Peter Schriever & Femke Hoornveld at 2016-12-01:
+ * Added a counting semaphore and made it possible to start multiple clients
  */
 
 import java.net.*;
